@@ -1,5 +1,3 @@
-/*document.getElementById('parrafo').innerHTML = 'BIENVENIDO AL INGLATERRA Mario fabian'
-document.getElementById('parrafo').innerHTML = 'Eres de Inglaterra Mario Camayo'*/
 
 // Esta funcion agrega a la pantalla el valor del boton de la calculadora
 function agregar(valor){
